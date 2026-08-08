@@ -1,0 +1,17 @@
+.venv/
+.env
+data/app.db
+data/images/
+data/logs/
+data/tmp/
+data/playwright-browsers/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+playwright-report/
+tools/uv/*.exe
+tools/uv/*.zip
+tools/uv/*.sha256

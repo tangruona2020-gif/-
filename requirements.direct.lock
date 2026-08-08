@@ -1,0 +1,28 @@
+# Audit-stage direct dependency lock for CPython 3.12.
+# Every declared first-party choice is pinned exactly. This is NOT the final
+# transitive lock and must not be used with pip install. See LOCKING.md.
+
+# Runtime
+alembic==1.16.4
+beautifulsoup4==4.13.4
+fastapi==0.116.1
+httpx==0.28.1
+jinja2==3.1.6
+pillow==11.3.0
+playwright==1.54.0
+pydantic-settings==2.10.1
+python-dateutil==2.9.0.post0
+python-multipart==0.0.20
+sqlalchemy==2.0.42
+tenacity==9.1.2
+uvicorn==0.35.0
+
+# Development
+mypy==1.17.1
+pre-commit==4.2.0
+pytest==8.4.1
+pytest-asyncio==1.1.0
+ruff==0.12.7
+
+# Build backend
+setuptools==80.9.0

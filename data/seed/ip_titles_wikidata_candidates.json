@@ -1,0 +1,3177 @@
+[
+  {
+    "chinese_name": "86不存在的战区",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "阿松",
+    "selected_wikidata_id": "Q174434",
+    "japanese_name": null,
+    "review_status": "candidate_without_japanese_label",
+    "candidates": [
+      {
+        "id": "Q174434",
+        "label": "阿松",
+        "description": "法国大西洋比利牛斯省市镇",
+        "matched_text": "阿松"
+      },
+      {
+        "id": "Q836600",
+        "label": "芳春院",
+        "description": "wife of Maeda Toshiie, Japanese daimyo",
+        "matched_text": "阿松"
+      },
+      {
+        "id": "Q22668361",
+        "label": "阿松",
+        "description": "日本电视动画系列",
+        "matched_text": "阿松"
+      },
+      {
+        "id": "Q11261701",
+        "label": "阿松",
+        "description": "2005 pachinko machine",
+        "matched_text": "阿松"
+      },
+      {
+        "id": "Q1166116",
+        "label": "阿松森省",
+        "description": "province in Ancash Region, Peru",
+        "matched_text": "阿松森省"
+      }
+    ]
+  },
+  {
+    "chinese_name": "暗杀教室",
+    "selected_wikidata_id": "Q3277067",
+    "japanese_name": "暗殺教室",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q3277067",
+        "label": "暗杀教室",
+        "description": "日本系列漫画",
+        "matched_text": "暗杀教室"
+      },
+      {
+        "id": "Q23762900",
+        "label": "暗杀教室2",
+        "description": "2016 film by Eiichirō Hasumi",
+        "matched_text": "暗杀教室2"
+      }
+    ]
+  },
+  {
+    "chinese_name": "Apex",
+    "selected_wikidata_id": "Q61478103",
+    "japanese_name": "エーペックスレジェンズ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q61478103",
+        "label": "Apex英雄",
+        "description": "2019年第一人称大逃杀类型电子游戏",
+        "matched_text": "Apex英雄"
+      },
+      {
+        "id": "Q2661245",
+        "label": "雪崩工作室",
+        "description": "瑞典电子游戏开发商",
+        "matched_text": "APEX引擎"
+      },
+      {
+        "id": "Q298187",
+        "label": "Apex",
+        "description": "维基媒体消歧义页",
+        "matched_text": "Apex"
+      },
+      {
+        "id": "Q4779438",
+        "label": "Apex工具集团",
+        "description": "American supplier of hand tools and power tools",
+        "matched_text": "Apex工具集团"
+      },
+      {
+        "id": "Q112671149",
+        "label": "Apex 英雄M",
+        "description": "2022年的电玩游戏",
+        "matched_text": "Apex 英雄M"
+      }
+    ]
+  },
+  {
+    "chinese_name": "B-Project",
+    "selected_wikidata_id": "Q24668320",
+    "japanese_name": "B-PROJECT",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q24668320",
+        "label": "B-PROJECT",
+        "description": "日本电视动画系列",
+        "matched_text": "B-PROJECT"
+      },
+      {
+        "id": "Q135027968",
+        "label": "B-PROJECT RYUSEI*FANTASIA",
+        "description": "2024 video game developed by MAGES. Inc.",
+        "matched_text": "B-PROJECT RYUSEI*FANTASIA"
+      }
+    ]
+  },
+  {
+    "chinese_name": "败犬女主太多了",
+    "selected_wikidata_id": "Q111317616",
+    "japanese_name": "負けヒロインが多すぎる！",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q111317616",
+        "label": "败犬女主太多了！",
+        "description": "日本轻小说系列",
+        "matched_text": "败犬女主太多了！"
+      },
+      {
+        "id": "Q123819103",
+        "label": "败北女角太多了！",
+        "description": "日本电视动画系列",
+        "matched_text": "败犬女主太多了！"
+      },
+      {
+        "id": "Q123397239",
+        "label": "败北女角太多了！",
+        "description": "日本系列漫画",
+        "matched_text": "败犬女主太多了！"
+      }
+    ]
+  },
+  {
+    "chinese_name": "BanG Dream!",
+    "selected_wikidata_id": "Q22128417",
+    "japanese_name": "BanG Dream!",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q22128417",
+        "label": "BanG Dream!",
+        "description": "日本跨媒体制作企划",
+        "matched_text": "BanG Dream!"
+      },
+      {
+        "id": "Q86827489",
+        "label": "BanG Dream!",
+        "description": "日本电视动画系列",
+        "matched_text": "BanG Dream!"
+      },
+      {
+        "id": "Q107638214",
+        "label": "BanG Dream!",
+        "description": "first season of the BanG Dream! anime television series",
+        "matched_text": "BanG Dream!"
+      },
+      {
+        "id": "Q55708725",
+        "label": "BanG Dream! 少女乐团派对！",
+        "description": "2017年电子游戏",
+        "matched_text": "BanG Dream! 少女樂團派對"
+      },
+      {
+        "id": "Q97509254",
+        "label": "BanG Dream! 少女乐团派对☆PICO",
+        "description": "Japanese chibi anime series",
+        "matched_text": "BanG Dream! 少女樂團派對☆PICO"
+      }
+    ]
+  },
+  {
+    "chinese_name": "别当欧尼酱了",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "不时以俄语遮羞的艾莉同学",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "彩虹社",
+    "selected_wikidata_id": "Q56345672",
+    "japanese_name": "にじさんじ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q56345672",
+        "label": "彩虹社",
+        "description": "日本虚拟Youtuber群体",
+        "matched_text": "彩虹社"
+      },
+      {
+        "id": "Q51393",
+        "label": "LGBT社区",
+        "description": "一群不是异性恋或顺性的人",
+        "matched_text": "彩虹社群"
+      },
+      {
+        "id": "Q13682237",
+        "label": "彩虹社区",
+        "description": "天津市滨海新区的社区",
+        "matched_text": "彩虹社区"
+      },
+      {
+        "id": "Q13813104",
+        "label": "彩虹社区",
+        "description": null,
+        "matched_text": "彩虹社区 (金阊街道)"
+      },
+      {
+        "id": "Q13728247",
+        "label": "彩虹社区",
+        "description": null,
+        "matched_text": "彩虹社区"
+      }
+    ]
+  },
+  {
+    "chinese_name": "超超超喜欢你的100个女友",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "彻夜之歌",
+    "selected_wikidata_id": "Q97180286",
+    "japanese_name": "よふかしのうた",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q97180286",
+        "label": "彻夜之歌",
+        "description": "日本漫画",
+        "matched_text": "彻夜之歌"
+      },
+      {
+        "id": "Q109523881",
+        "label": "彻夜之歌",
+        "description": "日本电视动画系列",
+        "matched_text": "彻夜之歌"
+      }
+    ]
+  },
+  {
+    "chinese_name": "憧憬成为魔法少女",
+    "selected_wikidata_id": "Q97277551",
+    "japanese_name": "魔法少女にあこがれて",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q97277551",
+        "label": "憧憬成为魔法少女",
+        "description": "日本系列漫画",
+        "matched_text": "憧憬成为魔法少女"
+      },
+      {
+        "id": "Q117157308",
+        "label": "憧憬成为魔法少女",
+        "description": "日本电视动画系列",
+        "matched_text": "憧憬成为魔法少女"
+      }
+    ]
+  },
+  {
+    "chinese_name": "春夏秋冬代行者",
+    "selected_wikidata_id": "Q117305682",
+    "japanese_name": "春夏秋冬代行者",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q117305682",
+        "label": "春夏秋冬代行者",
+        "description": "日本轻小说系列",
+        "matched_text": "春夏秋冬代行者"
+      },
+      {
+        "id": "Q131575202",
+        "label": "春夏秋冬代行者 春之舞",
+        "description": "日本系列漫画",
+        "matched_text": "春夏秋冬代行者 春之舞"
+      },
+      {
+        "id": "Q133848585",
+        "label": "春夏秋冬代行者 春之舞",
+        "description": "日本电视动画系列",
+        "matched_text": "春夏秋冬代行者 春之舞"
+      },
+      {
+        "id": "Q131575205",
+        "label": "Shunkashūtō Daikōsha: Hyakka Hyakuyō",
+        "description": "日本系列漫画",
+        "matched_text": "春夏秋冬代行者 百歌百葉"
+      }
+    ]
+  },
+  {
+    "chinese_name": "从零开始的异世界生活",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "胆大党",
+    "selected_wikidata_id": "Q108069627",
+    "japanese_name": "ダンダダン",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q108069627",
+        "label": "胆大党",
+        "description": "日本系列漫画",
+        "matched_text": "胆大党"
+      }
+    ]
+  },
+  {
+    "chinese_name": "弹丸论破",
+    "selected_wikidata_id": "Q18702069",
+    "japanese_name": "ダンガンロンパ Unlimited Battle",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q18702069",
+        "label": "弹丸论破-无限对战-",
+        "description": "Japanese action video game",
+        "matched_text": "弹丸论破-无限对战-"
+      },
+      {
+        "id": "Q1035512",
+        "label": "弹丸论破 希望的学园和绝望高中生",
+        "description": "2010年视觉小说类冒险游戏",
+        "matched_text": "弹丸论破 希望的学园和绝望高中生"
+      },
+      {
+        "id": "Q15917310",
+        "label": "弹丸论破系列",
+        "description": "由Spike公司所开发的游戏系列",
+        "matched_text": "弹丸论破系列"
+      }
+    ]
+  },
+  {
+    "chinese_name": "刀剑乱舞",
+    "selected_wikidata_id": "Q28687622",
+    "japanese_name": "刀剣乱舞",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q28687622",
+        "label": "刀剑乱舞",
+        "description": "2016 single",
+        "matched_text": "刀剑乱舞"
+      },
+      {
+        "id": "Q20155508",
+        "label": "刀剑乱舞",
+        "description": "2015年电子游戏",
+        "matched_text": "刀剑乱舞"
+      },
+      {
+        "id": "Q111008389",
+        "label": "刀剑乱舞无双",
+        "description": "2022年电子游戏",
+        "matched_text": "刀剑乱舞无双"
+      }
+    ]
+  },
+  {
+    "chinese_name": "刀剑神域",
+    "selected_wikidata_id": "Q27863",
+    "japanese_name": "ソードアート・オンライン",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q27863",
+        "label": "刀剑神域",
+        "description": "日本轻小说系列",
+        "matched_text": "刀剑神域"
+      },
+      {
+        "id": "Q26218026",
+        "label": "刀剑神域",
+        "description": "《刀剑神域》的真人版电视剧",
+        "matched_text": "刀剑神域"
+      },
+      {
+        "id": "Q24238538",
+        "label": "刀剑神域：序列之争",
+        "description": "2017年动画电影",
+        "matched_text": "刀剑神域：序列之争"
+      },
+      {
+        "id": "Q24031919",
+        "label": "刀剑神域 虚空幻界",
+        "description": "2016年日本电子游戏",
+        "matched_text": "刀剑神域 虚空幻界"
+      },
+      {
+        "id": "Q48734645",
+        "label": "刀剑神域外传Gun Gale Online",
+        "description": "日本轻小说系列",
+        "matched_text": "刀剑神域外传暴风之铳"
+      }
+    ]
+  },
+  {
+    "chinese_name": "地缚少年花子君",
+    "selected_wikidata_id": "Q28684168",
+    "japanese_name": "地縛少年花子くん",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q28684168",
+        "label": "地缚少年花子君",
+        "description": "日本漫画",
+        "matched_text": "地缚少年花子君"
+      }
+    ]
+  },
+  {
+    "chinese_name": "帝乃三姐妹原来很好搞定",
+    "selected_wikidata_id": "Q115313656",
+    "japanese_name": "帝乃三姉妹は案外、チョロい。",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q115313656",
+        "label": "帝乃三姐妹意外地容易相处",
+        "description": "日本系列漫画",
+        "matched_text": "帝乃三姐妹原来很好搞定"
+      }
+    ]
+  },
+  {
+    "chinese_name": "第五人格",
+    "selected_wikidata_id": "Q56272201",
+    "japanese_name": "アイデンティティ V",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q56272201",
+        "label": "第五人格",
+        "description": "网易第一款非对称对抗游戏",
+        "matched_text": "第五人格"
+      },
+      {
+        "id": "Q56278502",
+        "label": "第五人格",
+        "description": "维基媒体消歧义页",
+        "matched_text": "第五人格"
+      }
+    ]
+  },
+  {
+    "chinese_name": "电锯人",
+    "selected_wikidata_id": "Q65240543",
+    "japanese_name": "チェンソーマン",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q65240543",
+        "label": "电锯人",
+        "description": "日本系列漫画",
+        "matched_text": "电锯人"
+      },
+      {
+        "id": "Q104211858",
+        "label": "链锯人",
+        "description": "日本电视动画系列",
+        "matched_text": "电锯人"
+      }
+    ]
+  },
+  {
+    "chinese_name": "吊带袜天使",
+    "selected_wikidata_id": "Q1077331",
+    "japanese_name": "パンティ&ストッキングwithガーターベルト",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q1077331",
+        "label": "吊带袜天使",
+        "description": "2010日本电视动画系列",
+        "matched_text": "吊带袜天使"
+      }
+    ]
+  },
+  {
+    "chinese_name": "东京复仇者",
+    "selected_wikidata_id": "Q100255568",
+    "japanese_name": "東京リベンジャーズ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q100255568",
+        "label": "东京复仇者",
+        "description": "日本电视动画",
+        "matched_text": "东京复仇者"
+      }
+    ]
+  },
+  {
+    "chinese_name": "东京食尸鬼",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "动物狂想曲",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "防风铃",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "FGO",
+    "selected_wikidata_id": "Q18339082",
+    "japanese_name": "Fate/Grand Order",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q18339082",
+        "label": "命运－冠位指定",
+        "description": "日本手机游戏",
+        "matched_text": "FGO"
+      },
+      {
+        "id": "Q65087627",
+        "label": "Fate/Grand Order -绝对魔兽战线巴比伦尼亚-",
+        "description": "日本电视动画系列",
+        "matched_text": "FGO -絕對魔獸戰線巴比倫尼亞-"
+      },
+      {
+        "id": "Q39088392",
+        "label": "Fate/Grand Order角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "FGO角色列表"
+      },
+      {
+        "id": "Q99336552",
+        "label": "FGOALS模式对梅雨期东亚副热带西风急流变化特征的模拟",
+        "description": "article published in 2017",
+        "matched_text": "FGOALS模式对梅雨期东亚副热带西风急流变化特征的模拟"
+      },
+      {
+        "id": "Q99336703",
+        "label": "FGOALS耦合模式两个版本的海洋热吸收与气候敏感度的关系研究",
+        "description": "article published in 2018",
+        "matched_text": "FGOALS耦合模式两个版本的海洋热吸收与气候敏感度的关系研究"
+      }
+    ]
+  },
+  {
+    "chinese_name": "干物妹！小埋",
+    "selected_wikidata_id": "Q11481912",
+    "japanese_name": "干物妹!うまるちゃん",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q11481912",
+        "label": "干物妹！小埋",
+        "description": "日本系列漫画",
+        "matched_text": "干物妹！小埋"
+      }
+    ]
+  },
+  {
+    "chinese_name": "更衣人偶坠入爱河",
+    "selected_wikidata_id": "Q65235036",
+    "japanese_name": "その着せ替え人形は恋をする",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q65235036",
+        "label": "更衣人偶坠入爱河",
+        "description": "日本漫画",
+        "matched_text": "更衣人偶坠入爱河"
+      }
+    ]
+  },
+  {
+    "chinese_name": "公主连接",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "孤独摇滚",
+    "selected_wikidata_id": "Q117290437",
+    "japanese_name": "ぼっち・ざ・らじお！",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q117290437",
+        "label": "孤独广播！",
+        "description": "动画《孤独摇滚！》网络广播节目",
+        "matched_text": "孤独摇滚广播"
+      },
+      {
+        "id": "Q65235667",
+        "label": "孤独摇滚！",
+        "description": "日本漫画",
+        "matched_text": "孤独摇滚！"
+      }
+    ]
+  },
+  {
+    "chinese_name": "古立特宇宙",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "怪兽8号",
+    "selected_wikidata_id": "Q103888159",
+    "japanese_name": "怪獣8号",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q103888159",
+        "label": "怪兽8号",
+        "description": "日本系列漫画",
+        "matched_text": "怪兽8号"
+      },
+      {
+        "id": "Q115777186",
+        "label": "怪兽8号",
+        "description": "日本电视动画系列",
+        "matched_text": "怪兽8号"
+      }
+    ]
+  },
+  {
+    "chinese_name": "关于我转生变成史莱姆这档事",
+    "selected_wikidata_id": "Q22100530",
+    "japanese_name": "転生したらスライムだった件",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q22100530",
+        "label": "关于我转生变成史莱姆这档事",
+        "description": "日本轻小说系列",
+        "matched_text": "关于我转生变成史莱姆这档事"
+      },
+      {
+        "id": "Q104817254",
+        "label": "关于我转生变成史莱姆这档事",
+        "description": "日本跨媒体制作",
+        "matched_text": "关于我转生变成史莱姆这档事"
+      },
+      {
+        "id": "Q61779948",
+        "label": "关于我转生变成史莱姆这档事",
+        "description": "日本系列漫画",
+        "matched_text": "关于我转生变成史莱姆这档事"
+      },
+      {
+        "id": "Q61779950",
+        "label": "关于我转生变成史莱姆这档事",
+        "description": "日本电视动画系列",
+        "matched_text": "关于我转生变成史莱姆这档事"
+      },
+      {
+        "id": "Q60991594",
+        "label": "关于我转生变成史莱姆这档事角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "关于我转生变成史莱姆这档事角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "光逝去的夏天",
+    "selected_wikidata_id": "Q114494831",
+    "japanese_name": "光が死んだ夏",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q114494831",
+        "label": "光逝去的夏天",
+        "description": "日本系列漫画",
+        "matched_text": "光逝去的夏天"
+      },
+      {
+        "id": "Q126080512",
+        "label": "光逝去的夏天",
+        "description": "日本电视动画系列",
+        "matched_text": "光逝去的夏天"
+      }
+    ]
+  },
+  {
+    "chinese_name": "鬼灭之刃",
+    "selected_wikidata_id": "Q24862683",
+    "japanese_name": "鬼滅の刃",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q24862683",
+        "label": "鬼灭之刃",
+        "description": "日本漫画系列",
+        "matched_text": "鬼灭之刃"
+      },
+      {
+        "id": "Q105037706",
+        "label": "鬼灭之刃",
+        "description": "日本跨媒体制作系列",
+        "matched_text": "鬼灭之刃"
+      },
+      {
+        "id": "Q63350570",
+        "label": "鬼灭之刃",
+        "description": "日本电视动画系列",
+        "matched_text": "鬼灭之刃"
+      },
+      {
+        "id": "Q105847067",
+        "label": "鬼灭之刃 游郭篇",
+        "description": "《鬼灭之刃》电视动画第二季",
+        "matched_text": "鬼灭之刃 游郭篇"
+      },
+      {
+        "id": "Q123811233",
+        "label": "鬼灭之刃 争当最强队士！",
+        "description": "2024 video game",
+        "matched_text": "鬼灭之刃 争当最强队士！"
+      }
+    ]
+  },
+  {
+    "chinese_name": "海贼王",
+    "selected_wikidata_id": "Q28667972",
+    "japanese_name": "ONE PIECE",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q28667972",
+        "label": "海贼王",
+        "description": "日本漫画",
+        "matched_text": "海贼王"
+      },
+      {
+        "id": "Q673",
+        "label": "海贼王",
+        "description": "日本跨媒体制作",
+        "matched_text": "海贼王"
+      },
+      {
+        "id": "Q111395668",
+        "label": "海贼王 时光旅诗",
+        "description": "2023年电子游戏",
+        "matched_text": "海贼王 奥德赛"
+      },
+      {
+        "id": "Q15285503",
+        "label": "海贼王：无尽世界R",
+        "description": "2013 video game",
+        "matched_text": "海贼王：无尽世界R"
+      },
+      {
+        "id": "Q140139123",
+        "label": "海贼王 海洋盛宴",
+        "description": "2026年电子游戏",
+        "matched_text": "海贼王 海洋盛宴"
+      }
+    ]
+  },
+  {
+    "chinese_name": "韩启理",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "黑执事",
+    "selected_wikidata_id": "Q696302",
+    "japanese_name": "黒執事",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q696302",
+        "label": "黑执事",
+        "description": "日本系列漫画",
+        "matched_text": "黑执事"
+      },
+      {
+        "id": "Q11678056",
+        "label": "黑执事",
+        "description": "日本电视动画",
+        "matched_text": "黑执事"
+      },
+      {
+        "id": "Q738299",
+        "label": "黑执事人物列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "黑执事人物列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "花薰凛然",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "欢迎来到实力至上主义的教室",
+    "selected_wikidata_id": "Q24874162",
+    "japanese_name": "ようこそ実力至上主義の教室へ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q24874162",
+        "label": "欢迎来到实力至上主义的教室",
+        "description": "日本轻小说系列",
+        "matched_text": "欢迎来到实力至上主义的教室"
+      },
+      {
+        "id": "Q61648728",
+        "label": "欢迎来到实力至上主义的教室",
+        "description": "日本电视动画系列",
+        "matched_text": "欢迎来到实力至上主义的教室"
+      },
+      {
+        "id": "Q109595975",
+        "label": "欢迎来到实力至上主义的教室角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "欢迎来到实力至上主义的教室角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "辉夜大小姐",
+    "selected_wikidata_id": "Q24867647",
+    "japanese_name": "かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q24867647",
+        "label": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+        "description": "日本漫画",
+        "matched_text": "辉夜大小姐想让我告白～天才们的恋爱头脑战～"
+      },
+      {
+        "id": "Q65076104",
+        "label": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+        "description": "日本漫画改编电影",
+        "matched_text": "辉夜大小姐想让我告白～天才们的恋爱头脑战～"
+      },
+      {
+        "id": "Q108504704",
+        "label": "辉夜大小姐想让我告白～天才们的恋爱头脑战～ Final",
+        "description": "日本漫画改编电影",
+        "matched_text": "辉夜大小姐想让我告白～天才们的恋爱头脑战～ Final"
+      },
+      {
+        "id": "Q135010800",
+        "label": "辉夜大小姐想让我告白 通往大人的阶梯",
+        "description": null,
+        "matched_text": "辉夜大小姐想让我告白 通往大人的阶梯"
+      }
+    ]
+  },
+  {
+    "chinese_name": "火影忍者",
+    "selected_wikidata_id": "Q26971382",
+    "japanese_name": "NARUTO -ナルト-",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q26971382",
+        "label": "火影忍者",
+        "description": "日本少年漫画",
+        "matched_text": "火影忍者"
+      },
+      {
+        "id": "Q642",
+        "label": "火影忍者",
+        "description": "岸本齐史的少年漫画作品",
+        "matched_text": "火影忍者"
+      },
+      {
+        "id": "Q25929253",
+        "label": "火影忍者",
+        "description": "日本电视动画系列",
+        "matched_text": "火影忍者"
+      },
+      {
+        "id": "Q97255527",
+        "label": "火影忍者",
+        "description": "电子游戏系列",
+        "matched_text": "火影忍者"
+      },
+      {
+        "id": "Q12500134",
+        "label": "火影忍者疾风传",
+        "description": "日本电视动画系列",
+        "matched_text": "火影忍者疾風傳"
+      }
+    ]
+  },
+  {
+    "chinese_name": "家里蹲吸血姬的苦闷",
+    "selected_wikidata_id": "Q97341843",
+    "japanese_name": "ひきこまり吸血姫の悶々",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q97341843",
+        "label": "家里蹲吸血姬的郁闷",
+        "description": "日本轻小说系列",
+        "matched_text": "家里蹲吸血姬的苦闷"
+      }
+    ]
+  },
+  {
+    "chinese_name": "家庭教师HITMAN REBORN!",
+    "selected_wikidata_id": "Q10950869",
+    "japanese_name": null,
+    "review_status": "candidate_without_japanese_label",
+    "candidates": [
+      {
+        "id": "Q10950869",
+        "label": "家庭教师HITMAN REBORN! CCG",
+        "description": "卡片游戏",
+        "matched_text": "家庭教师HITMAN REBORN! CCG"
+      },
+      {
+        "id": "Q1354570",
+        "label": "家庭教师REBORN!角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "家庭教师HITMAN REBORN!角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "舰B",
+    "selected_wikidata_id": "Q42404311",
+    "japanese_name": "アズールレーン",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q42404311",
+        "label": "碧蓝航线",
+        "description": "2017年电子游戏",
+        "matched_text": "舰B"
+      }
+    ]
+  },
+  {
+    "chinese_name": "间谍过家家",
+    "selected_wikidata_id": "Q65231576",
+    "japanese_name": "SPY×FAMILY",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q65231576",
+        "label": "间谍过家家",
+        "description": "日本连载漫画",
+        "matched_text": "间谍过家家"
+      },
+      {
+        "id": "Q109333365",
+        "label": "SPY×FAMILY间谍过家家",
+        "description": "日本电视动画系列",
+        "matched_text": "间谍过家家"
+      },
+      {
+        "id": "Q117305646",
+        "label": "间谍过家家 代号：白",
+        "description": "2023年日本动画电影",
+        "matched_text": "间谍过家家 代号：白"
+      },
+      {
+        "id": "Q111281063",
+        "label": "间谍过家家剧集列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "间谍过家家剧集列表"
+      },
+      {
+        "id": "Q122618291",
+        "label": "间谍过家家 日记大作战",
+        "description": "2024年电子游戏",
+        "matched_text": "间谍过家家 日记大作战"
+      }
+    ]
+  },
+  {
+    "chinese_name": "舰队Collection",
+    "selected_wikidata_id": "Q18712381",
+    "japanese_name": "艦隊これくしょん -艦これ-",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q18712381",
+        "label": "舰队Collection",
+        "description": "日本电视动画系列",
+        "matched_text": "舰队Collection"
+      }
+    ]
+  },
+  {
+    "chinese_name": "街头霸王",
+    "selected_wikidata_id": "Q288035",
+    "japanese_name": "ストリートファイター",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q288035",
+        "label": "街头霸王系列",
+        "description": "电子游戏系列",
+        "matched_text": "街头霸王系列"
+      },
+      {
+        "id": "Q189991",
+        "label": "街头霸王",
+        "description": "British virtual band",
+        "matched_text": "街头霸王"
+      },
+      {
+        "id": "Q1138659",
+        "label": "街头霸王",
+        "description": "1994年的电影",
+        "matched_text": "街头霸王"
+      },
+      {
+        "id": "Q1503511",
+        "label": "街头霸王",
+        "description": "1987 arcade video game",
+        "matched_text": "街头霸王"
+      },
+      {
+        "id": "Q1777358",
+        "label": "街头霸王",
+        "description": "2001 film directed by David Levien and Brian Koppelman",
+        "matched_text": "街头霸王"
+      }
+    ]
+  },
+  {
+    "chinese_name": "进击的巨人",
+    "selected_wikidata_id": "Q586025",
+    "japanese_name": "進撃の巨人",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q586025",
+        "label": "进击的巨人",
+        "description": "日本漫画",
+        "matched_text": "进击的巨人"
+      },
+      {
+        "id": "Q22126305",
+        "label": "进击的巨人",
+        "description": "日本动画",
+        "matched_text": "进击的巨人"
+      },
+      {
+        "id": "Q20800425",
+        "label": "进击的巨人：人类最后之翼",
+        "description": "2013年的电玩游戏",
+        "matched_text": "进击的巨人：人类最后之翼"
+      },
+      {
+        "id": "Q90006515",
+        "label": "进击的巨人2：最终之战",
+        "description": "2019年的电玩游戏",
+        "matched_text": "进击的巨人2：最终之战"
+      },
+      {
+        "id": "Q124513175",
+        "label": "进击的巨人结束11年半连载",
+        "description": "维基新闻新闻稿",
+        "matched_text": "进击的巨人结束11年半连载"
+      }
+    ]
+  },
+  {
+    "chinese_name": "金牌得主",
+    "selected_wikidata_id": "Q106392491",
+    "japanese_name": "メダリスト",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q106392491",
+        "label": "金牌得主",
+        "description": "日本漫画",
+        "matched_text": "金牌得主"
+      },
+      {
+        "id": "Q133697983",
+        "label": "金牌得主",
+        "description": "season of Medalist",
+        "matched_text": "金牌得主"
+      },
+      {
+        "id": "Q118451823",
+        "label": "金牌得主",
+        "description": "日本电视动画系列",
+        "matched_text": "金牌得主"
+      },
+      {
+        "id": "Q133697984",
+        "label": "金牌得主 第二季",
+        "description": "season of Medalist",
+        "matched_text": "金牌得主 第二季"
+      }
+    ]
+  },
+  {
+    "chinese_name": "金色琴弦",
+    "selected_wikidata_id": "Q1314543",
+    "japanese_name": "金色のコルダ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q1314543",
+        "label": "金色琴弦",
+        "description": "Japanese media franchise",
+        "matched_text": "金色琴弦"
+      },
+      {
+        "id": "Q107533884",
+        "label": "金色琴弦",
+        "description": "日本电视动画系列",
+        "matched_text": "金色琴弦"
+      },
+      {
+        "id": "Q107534116",
+        "label": "金色琴弦",
+        "description": "日本系列漫画",
+        "matched_text": "金色琴弦"
+      },
+      {
+        "id": "Q11647817",
+        "label": "金色琴弦3 AnotherSky",
+        "description": "2010 video game",
+        "matched_text": "金色琴弦 Blue♪Sky"
+      },
+      {
+        "id": "Q1038655",
+        "label": "金色琴弦角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "金色琴弦角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "京阿尼感谢祭",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "京吹",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "京都动画感谢祭",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "京都展",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "境界的彼方",
+    "selected_wikidata_id": "Q9385099",
+    "japanese_name": "境界の彼方",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q9385099",
+        "label": "境界的彼方",
+        "description": "日本轻小说系列",
+        "matched_text": "境界的彼方"
+      },
+      {
+        "id": "Q17228289",
+        "label": "境界的彼方",
+        "description": "2013 single by Minori Chihara",
+        "matched_text": "境界的彼方"
+      },
+      {
+        "id": "Q131927631",
+        "label": "境界的彼方",
+        "description": "日本电视动画系列",
+        "matched_text": "境界的彼方"
+      }
+    ]
+  },
+  {
+    "chinese_name": "JoJo的奇妙冒险",
+    "selected_wikidata_id": "Q696918",
+    "japanese_name": "ジョジョの奇妙な冒険",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q696918",
+        "label": "JoJo的奇妙冒险",
+        "description": "日本漫画系列",
+        "matched_text": "JoJo的奇妙冒险"
+      },
+      {
+        "id": "Q2757037",
+        "label": "JoJo的奇妙冒险",
+        "description": "1998 fighting video game",
+        "matched_text": "JoJo的奇妙冒险"
+      },
+      {
+        "id": "Q6204056",
+        "label": "JoJo的奇妙冒险",
+        "description": "1993–2002 original video animation",
+        "matched_text": "JoJo的奇妙冒险"
+      },
+      {
+        "id": "Q3179362",
+        "label": "JOJO奇妙冒险：全明星战斗",
+        "description": "2013年电子游戏",
+        "matched_text": "JOJO的奇妙冒险：全明星战斗"
+      },
+      {
+        "id": "Q18646472",
+        "label": "JoJo的奇妙冒险 天堂之眼",
+        "description": "2016 video game",
+        "matched_text": "JoJo的奇妙冒险 天堂之眼"
+      }
+    ]
+  },
+  {
+    "chinese_name": "Kanon",
+    "selected_wikidata_id": "Q682892",
+    "japanese_name": "Kanon",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q682892",
+        "label": "Kanon",
+        "description": "Key社于1999年推出的恋爱游戏",
+        "matched_text": "Kanon"
+      },
+      {
+        "id": "Q705444",
+        "label": "KanonenJagdPanzer",
+        "description": "German tank destroyer",
+        "matched_text": "KanonenJagdPanzer"
+      },
+      {
+        "id": "Q3867177",
+        "label": "Kanon动画集数列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "Kanon動畫集數列表"
+      },
+      {
+        "id": "Q12793343",
+        "label": "Kanoni",
+        "description": "姓氏 (Kanoni)",
+        "matched_text": "Kanoni"
+      },
+      {
+        "id": "Q22126199",
+        "label": "久我花音",
+        "description": "日本AV女优",
+        "matched_text": "Kanon Chura"
+      }
+    ]
+  },
+  {
+    "chinese_name": "空之境界",
+    "selected_wikidata_id": "Q495472",
+    "japanese_name": "空の境界",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q495472",
+        "label": "空之境界",
+        "description": "日本奇幻小说",
+        "matched_text": "空之境界"
+      },
+      {
+        "id": "Q11597331",
+        "label": "空之境界",
+        "description": "2013 film by Kei Horie",
+        "matched_text": "空之境界"
+      },
+      {
+        "id": "Q136402298",
+        "label": "空之境界",
+        "description": null,
+        "matched_text": "空之境界"
+      },
+      {
+        "id": "Q16839652",
+        "label": "空之境界 第二章 杀人考察（前）",
+        "description": "2007 film",
+        "matched_text": "空之境界 第二章 杀人考察（前）"
+      },
+      {
+        "id": "Q109342530",
+        "label": "空之境界人物列表",
+        "description": null,
+        "matched_text": "空之境界人物列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "哭泣少女乐队",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "堀与宫村",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "狂赌之渊",
+    "selected_wikidata_id": "Q140182757",
+    "japanese_name": "賭ケグルイ ALL IN",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q140182757",
+        "label": "狂赌之渊 ALL IN",
+        "description": "CTW株式会社运营的《狂赌之渊》改编战略大富翁浏览器游戏",
+        "matched_text": "狂赌之渊 ALL IN"
+      }
+    ]
+  },
+  {
+    "chinese_name": "来自深渊",
+    "selected_wikidata_id": "Q18335422",
+    "japanese_name": "メイドインアビス",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q18335422",
+        "label": "来自深渊",
+        "description": "日本漫画",
+        "matched_text": "来自深渊"
+      },
+      {
+        "id": "Q4352279",
+        "label": "来自深渊",
+        "description": "2008 video game",
+        "matched_text": "来自深渊"
+      },
+      {
+        "id": "Q45338120",
+        "label": "来自深渊角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "来自深渊角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "蓝色监狱",
+    "selected_wikidata_id": "Q108059214",
+    "japanese_name": "ブルーロック",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q108059214",
+        "label": "蓝色监狱",
+        "description": "日本电视动画系列",
+        "matched_text": "蓝色监狱"
+      }
+    ]
+  },
+  {
+    "chinese_name": "莉可丽丝",
+    "selected_wikidata_id": "Q110361884",
+    "japanese_name": "リコリス・リコイル",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q110361884",
+        "label": "莉可丽丝",
+        "description": "日本电视动画",
+        "matched_text": "莉可丽丝"
+      }
+    ]
+  },
+  {
+    "chinese_name": "邻家的天使同学",
+    "selected_wikidata_id": "Q86740055",
+    "japanese_name": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q86740055",
+        "label": "关于我在无意间被隔壁的天使变成废柴这件事",
+        "description": "日本轻小说系列",
+        "matched_text": "邻家的天使同学"
+      }
+    ]
+  },
+  {
+    "chinese_name": "邻家索菲",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "灵能百分百",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "龙王的工作",
+    "selected_wikidata_id": "Q24868819",
+    "japanese_name": "りゅうおうのおしごと!",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q24868819",
+        "label": "龙王的工作！",
+        "description": "日本轻小说作品",
+        "matched_text": "龙王的工作！"
+      }
+    ]
+  },
+  {
+    "chinese_name": "LoveLive",
+    "selected_wikidata_id": "Q43069510",
+    "japanese_name": "ラブライブ!シリーズ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q43069510",
+        "label": "Love Live!",
+        "description": "日本多媒体系列",
+        "matched_text": "LoveLive"
+      },
+      {
+        "id": "Q15838335",
+        "label": "LoveLive! 学园偶像祭",
+        "description": "日本手机游戏",
+        "matched_text": "LoveLive! 學園偶像祭"
+      },
+      {
+        "id": "Q3178184",
+        "label": "LoveLive! CD列表",
+        "description": null,
+        "matched_text": "LoveLive! CD列表"
+      },
+      {
+        "id": "Q21789616",
+        "label": "LoveLive! 学园偶像电影",
+        "description": "日本动画电影",
+        "matched_text": "LoveLive! 學園偶像電影"
+      },
+      {
+        "id": "Q15863130",
+        "label": "LoveLive! 学园偶像天国",
+        "description": "电子游戏",
+        "matched_text": "LoveLive! 学园偶像天国"
+      }
+    ]
+  },
+  {
+    "chinese_name": "鲁鲁修",
+    "selected_wikidata_id": "Q207981",
+    "japanese_name": "コードギアス",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q207981",
+        "label": "Code Geass",
+        "description": "Japanese media franchise",
+        "matched_text": "鲁鲁修"
+      }
+    ]
+  },
+  {
+    "chinese_name": "路人女主的养成方法",
+    "selected_wikidata_id": "Q11395269",
+    "japanese_name": "冴えない彼女の育てかた",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q11395269",
+        "label": "不起眼女主角培育法",
+        "description": "日本轻小说系列",
+        "matched_text": "路人女主的养成方法"
+      }
+    ]
+  },
+  {
+    "chinese_name": "迷宫饭",
+    "selected_wikidata_id": "Q20016948",
+    "japanese_name": "ダンジョン飯",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q20016948",
+        "label": "迷宫饭",
+        "description": "日本漫画系列",
+        "matched_text": "迷宫饭"
+      }
+    ]
+  },
+  {
+    "chinese_name": "明日方舟",
+    "selected_wikidata_id": "Q63789030",
+    "japanese_name": "アークナイツ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q63789030",
+        "label": "明日方舟",
+        "description": "2019年电子游戏",
+        "matched_text": "明日方舟"
+      },
+      {
+        "id": "Q114565614",
+        "label": "明日方舟",
+        "description": "日本电视动画系列",
+        "matched_text": "明日方舟"
+      },
+      {
+        "id": "Q112049342",
+        "label": "明日方舟：终末地",
+        "description": "2026年电子游戏",
+        "matched_text": "明日方舟：终末地"
+      },
+      {
+        "id": "Q136680637",
+        "label": "明日方舟：冬隐归路",
+        "description": null,
+        "matched_text": "明日方舟：冬隐归路"
+      },
+      {
+        "id": "Q136680636",
+        "label": "明日方舟：黎明前奏",
+        "description": null,
+        "matched_text": "明日方舟：黎明前奏"
+      }
+    ]
+  },
+  {
+    "chinese_name": "名侦探柯南",
+    "selected_wikidata_id": "Q185143",
+    "japanese_name": "名探偵コナン",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q185143",
+        "label": "名侦探柯南",
+        "description": "日本侦探漫画系列",
+        "matched_text": "名侦探柯南"
+      },
+      {
+        "id": "Q5363072",
+        "label": "名侦探柯南",
+        "description": "日本电视动画系列",
+        "matched_text": "名侦探柯南"
+      },
+      {
+        "id": "Q3853685",
+        "label": "名侦探柯南",
+        "description": "日本系列漫画",
+        "matched_text": "名侦探柯南 (漫画)"
+      },
+      {
+        "id": "Q64541352",
+        "label": "名侦探柯南角色",
+        "description": "manga or anime character from Detective Conan",
+        "matched_text": "名侦探柯南角色"
+      },
+      {
+        "id": "Q512262",
+        "label": "名侦探柯南：沉默的15分钟",
+        "description": "2011年日本电影",
+        "matched_text": "名侦探柯南：沉默的15分钟"
+      }
+    ]
+  },
+  {
+    "chinese_name": "魔法禁书目录",
+    "selected_wikidata_id": "Q277021",
+    "japanese_name": "とある魔術の禁書目録",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q277021",
+        "label": "魔法禁书目录",
+        "description": "日本轻小说系列",
+        "matched_text": "魔法禁书目录"
+      },
+      {
+        "id": "Q89208248",
+        "label": "魔法禁书目录",
+        "description": "2011年的电子游戏",
+        "matched_text": "魔法禁书目录"
+      },
+      {
+        "id": "Q89207935",
+        "label": "魔法禁书目录",
+        "description": "日本系列漫画",
+        "matched_text": "魔法禁书目录"
+      },
+      {
+        "id": "Q17219196",
+        "label": "魔法禁书目录",
+        "description": "日本电视动画系列",
+        "matched_text": "魔法禁书目录"
+      },
+      {
+        "id": "Q89208869",
+        "label": "魔法禁书目录：恩底弥翁的奇迹",
+        "description": "日本系列漫画",
+        "matched_text": "魔法禁书目录：恩底弥翁的奇迹"
+      }
+    ]
+  },
+  {
+    "chinese_name": "魔法少女小圆",
+    "selected_wikidata_id": "Q53353",
+    "japanese_name": "魔法少女まどか☆マギカ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q53353",
+        "label": "魔法少女小圆",
+        "description": "日本原创电视动画",
+        "matched_text": "魔法少女小圆"
+      },
+      {
+        "id": "Q4392682",
+        "label": "魔法少女小圆角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "魔法少女小圆角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "魔法少女伊莉雅",
+    "selected_wikidata_id": "Q182652",
+    "japanese_name": "Fate/kaleid liner プリズマ☆イリヤ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q182652",
+        "label": "Fate/kaleid liner 魔法少女☆伊莉雅",
+        "description": "日本系列漫画",
+        "matched_text": "魔法少女伊莉雅"
+      }
+    ]
+  },
+  {
+    "chinese_name": "魔法少女与恶曾是敌人",
+    "selected_wikidata_id": "Q20043668",
+    "japanese_name": "かつて魔法少女と悪は敵対していた。",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q20043668",
+        "label": "曾经、魔法少女和邪恶相互为敌。",
+        "description": "日本漫画",
+        "matched_text": "魔法少女与恶曾是敌人"
+      }
+    ]
+  },
+  {
+    "chinese_name": "魔女之旅",
+    "selected_wikidata_id": "Q30927067",
+    "japanese_name": "魔女の旅々",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q30927067",
+        "label": "魔女之旅",
+        "description": "日本轻小说系列",
+        "matched_text": "魔女之旅"
+      },
+      {
+        "id": "Q71574733",
+        "label": "魔女之旅",
+        "description": "日本电视动画系列",
+        "matched_text": "魔女之旅"
+      },
+      {
+        "id": "Q71574729",
+        "label": "魔女之旅",
+        "description": "日本系列漫画",
+        "matched_text": "魔女之旅"
+      },
+      {
+        "id": "Q115427988",
+        "label": "魔女之旅剧集列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "魔女之旅劇集列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "魔卡少女樱",
+    "selected_wikidata_id": "Q29972136",
+    "japanese_name": "カードキャプターさくら",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q29972136",
+        "label": "魔卡少女樱",
+        "description": "日本电视动画系列",
+        "matched_text": "魔卡少女樱"
+      },
+      {
+        "id": "Q49182",
+        "label": "魔卡少女樱",
+        "description": "日本系列漫画",
+        "matched_text": "魔卡少女樱"
+      },
+      {
+        "id": "Q33101495",
+        "label": "魔卡少女樱 透明牌篇",
+        "description": "日本系列漫画",
+        "matched_text": "魔卡少女樱 透明牌篇"
+      }
+    ]
+  },
+  {
+    "chinese_name": "墨子的虚拟",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "某科学的超电磁炮",
+    "selected_wikidata_id": "Q281402",
+    "japanese_name": "とある科学の超電磁砲",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q281402",
+        "label": "某科学的超电磁炮",
+        "description": "日本系列漫画",
+        "matched_text": "某科学的超电磁炮"
+      },
+      {
+        "id": "Q17219204",
+        "label": "魔法禁书目录游戏列表",
+        "description": "Wikimedia list article",
+        "matched_text": "某科学的超电磁炮"
+      }
+    ]
+  },
+  {
+    "chinese_name": "尼尔：机械纪元",
+    "selected_wikidata_id": "Q21078985",
+    "japanese_name": "ニーア オートマタ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q21078985",
+        "label": "尼尔：自动人形",
+        "description": "动作角色扮演电子游戏",
+        "matched_text": "尼尔：机械纪元"
+      },
+      {
+        "id": "Q111657460",
+        "label": "尼尔：自动人形 Ver1.1a",
+        "description": "日本电视动画系列",
+        "matched_text": "尼尔：机械纪元 Ver1.1a"
+      }
+    ]
+  },
+  {
+    "chinese_name": "偶像展厅",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "Overlord",
+    "selected_wikidata_id": "Q11293422",
+    "japanese_name": "オーバーロード",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q11293422",
+        "label": "OVERLORD",
+        "description": "日本轻小说系列",
+        "matched_text": "OVERLORD"
+      },
+      {
+        "id": "Q19927606",
+        "label": "OVERLORD",
+        "description": "维基媒体消歧义页",
+        "matched_text": "OVERLORD"
+      },
+      {
+        "id": "Q6593206",
+        "label": "OVERLORD角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "OVERLORD角色列表"
+      },
+      {
+        "id": "Q123683703",
+        "label": "OVERLORD (动画)",
+        "description": "Wikipedia article covering multiple topics",
+        "matched_text": "OVERLORD (動畫)"
+      },
+      {
+        "id": "Q1187668",
+        "label": "唤灵师",
+        "description": "2007年电子游戏",
+        "matched_text": "Overlord"
+      }
+    ]
+  },
+  {
+    "chinese_name": "PJSK",
+    "selected_wikidata_id": "Q98819632",
+    "japanese_name": "プロジェクトセカイ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q98819632",
+        "label": "世界计划 彩色舞台！ feat. 初音未来",
+        "description": "2020年电子游戏",
+        "matched_text": "PJSK"
+      }
+    ]
+  },
+  {
+    "chinese_name": "契约之吻",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "前辈是男孩子",
+    "selected_wikidata_id": "Q106365653",
+    "japanese_name": "先輩はおとこのこ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q106365653",
+        "label": "前辈是伪娘",
+        "description": "日本系列漫画",
+        "matched_text": "前辈是男孩子"
+      }
+    ]
+  },
+  {
+    "chinese_name": "青春猪头少年不会梦到兔女郎学姐",
+    "selected_wikidata_id": "Q63615353",
+    "japanese_name": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q63615353",
+        "label": "青春猪头少年不会梦到兔女郎学姐",
+        "description": "日本电视动画系列",
+        "matched_text": "青春猪头少年不会梦到兔女郎学姐"
+      }
+    ]
+  },
+  {
+    "chinese_name": "轻音少女",
+    "selected_wikidata_id": "Q482482",
+    "japanese_name": "けいおん!",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q482482",
+        "label": "K-ON！轻音少女",
+        "description": "日本系列漫画",
+        "matched_text": "轻音少女"
+      },
+      {
+        "id": "Q15863567",
+        "label": "K-ON!",
+        "description": "日本电视动画系列",
+        "matched_text": "轻音少女"
+      }
+    ]
+  },
+  {
+    "chinese_name": "青之箱",
+    "selected_wikidata_id": "Q106447820",
+    "japanese_name": "アオのハコ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q106447820",
+        "label": "青春之箱",
+        "description": "日本系列漫画",
+        "matched_text": "青之箱"
+      }
+    ]
+  },
+  {
+    "chinese_name": "全职猎人",
+    "selected_wikidata_id": "Q696071",
+    "japanese_name": "HUNTER×HUNTER",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q696071",
+        "label": "Hunter × Hunter",
+        "description": "日本漫画",
+        "matched_text": "全职猎人"
+      }
+    ]
+  },
+  {
+    "chinese_name": "日常",
+    "selected_wikidata_id": "Q483120",
+    "japanese_name": "日常",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q483120",
+        "label": "日常",
+        "description": "日本系列漫画",
+        "matched_text": "日常"
+      },
+      {
+        "id": "Q106567447",
+        "label": "日常",
+        "description": "日本电视动画系列",
+        "matched_text": "日常"
+      },
+      {
+        "id": "Q901711",
+        "label": "俗语",
+        "description": "非正式沟通，用于日常交流的语言风格",
+        "matched_text": "日常用语"
+      },
+      {
+        "id": "Q1129653",
+        "label": "日常生活",
+        "description": "人类日常和每周周期的常规过程",
+        "matched_text": "日常生活"
+      },
+      {
+        "id": "Q423243",
+        "label": "日常生活活动",
+        "description": "日常生活普遍会进行的活动",
+        "matched_text": "日常生活活動"
+      }
+    ]
+  },
+  {
+    "chinese_name": "入间同学入魔了",
+    "selected_wikidata_id": "Q43238003",
+    "japanese_name": "魔入りました!入間くん",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q43238003",
+        "label": "入间同学入魔了！",
+        "description": "日本连载漫画",
+        "matched_text": "入间同学入魔了！"
+      }
+    ]
+  },
+  {
+    "chinese_name": "弱虫",
+    "selected_wikidata_id": "Q205683",
+    "japanese_name": "スクービー・ドゥー",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q205683",
+        "label": "史酷比，你在哪里！",
+        "description": "American media franchise",
+        "matched_text": "弱虫クルッパー"
+      },
+      {
+        "id": "Q23999279",
+        "label": "史酷比",
+        "description": "2020年电影",
+        "matched_text": "弱虫スクービーの大冒険"
+      },
+      {
+        "id": "Q41720",
+        "label": "胆小鬼博弈",
+        "description": "model of conflict (games theory)",
+        "matched_text": "弱虫ゲーム"
+      },
+      {
+        "id": "Q1661633",
+        "label": "飙速宅男",
+        "description": "日本系列漫画",
+        "matched_text": "弱虫ペダル"
+      },
+      {
+        "id": "Q29566417",
+        "label": "强人俱乐部",
+        "description": "episode of SpongeBob SquarePants (S3 E8a)",
+        "matched_text": "弱虫おことわり"
+      }
+    ]
+  },
+  {
+    "chinese_name": "弱势角色友崎君",
+    "selected_wikidata_id": "Q48938269",
+    "japanese_name": "弱キャラ友崎くん",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q48938269",
+        "label": "弱角友崎同学",
+        "description": "日本轻小说系列",
+        "matched_text": "弱势角色友崎君"
+      }
+    ]
+  },
+  {
+    "chinese_name": "赛马娘",
+    "selected_wikidata_id": "Q106080057",
+    "japanese_name": "ウマ娘",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q106080057",
+        "label": "赛马娘",
+        "description": "虚构角色分类",
+        "matched_text": "赛马娘"
+      },
+      {
+        "id": "Q104333785",
+        "label": "赛马娘Pretty Derby",
+        "description": "日本电视动画系列",
+        "matched_text": "赛马娘Pretty Derby"
+      },
+      {
+        "id": "Q104334036",
+        "label": "赛马娘Pretty Derby",
+        "description": "赛马娘Pretty Derby系列动画季度",
+        "matched_text": "赛马娘Pretty Derby"
+      },
+      {
+        "id": "Q119821400",
+        "label": "赛马娘Pretty Derby 热血喧闹大感谢祭!",
+        "description": "2024年电子游戏",
+        "matched_text": "赛马娘Pretty Derby 热血喧闹大感谢祭!"
+      },
+      {
+        "id": "Q29034274",
+        "label": "赛马娘 Pretty Derby",
+        "description": "由日本游戏开发公司Cygames制作的多媒体企划",
+        "matched_text": "赛马娘 Pretty Derby"
+      }
+    ]
+  },
+  {
+    "chinese_name": "三丽鸥骑士",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "杀戮天使",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "擅长逃跑的少主殿下",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "擅长捉弄的高木同学",
+    "selected_wikidata_id": "Q111512826",
+    "japanese_name": "劇場版 からかい上手の高木さん",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q111512826",
+        "label": "擅长捉弄的高木同学 剧场版",
+        "description": "2022年日本动画电影",
+        "matched_text": "擅长捉弄的高木同学 剧场版"
+      }
+    ]
+  },
+  {
+    "chinese_name": "少女终末旅行",
+    "selected_wikidata_id": "Q36489734",
+    "japanese_name": "少女終末旅行",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q36489734",
+        "label": "少女终末旅行",
+        "description": "つくみず创作的日本漫画作品",
+        "matched_text": "少女终末旅行"
+      }
+    ]
+  },
+  {
+    "chinese_name": "圣剑学院的魔法使",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "石纪元",
+    "selected_wikidata_id": "Q38275959",
+    "japanese_name": "Dr.STONE",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q38275959",
+        "label": "Dr.STONE 石纪元",
+        "description": "日本系列漫画",
+        "matched_text": "石纪元"
+      }
+    ]
+  },
+  {
+    "chinese_name": "式守同学不止可爱而已",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "守护甜心",
+    "selected_wikidata_id": "Q1328509",
+    "japanese_name": "しゅごキャラ!の登場人物",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q1328509",
+        "label": "守护甜心！角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "守护甜心！角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "死神",
+    "selected_wikidata_id": "Q904",
+    "japanese_name": "BLEACH",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q904",
+        "label": "BLEACH",
+        "description": "日本漫画家久保带人的漫画及其延伸作品",
+        "matched_text": "死神"
+      },
+      {
+        "id": "Q161936",
+        "label": "死神",
+        "description": "死亡的化身",
+        "matched_text": "死神"
+      },
+      {
+        "id": "Q479033",
+        "label": "死神",
+        "description": "Kami of death",
+        "matched_text": "死神"
+      },
+      {
+        "id": "Q3210905",
+        "label": "死亡",
+        "description": "thirteenth Major Arcana tarot card, symbolising renovation and transformation",
+        "matched_text": "死神"
+      },
+      {
+        "id": "Q5362638",
+        "label": "死神",
+        "description": "日本电视动画系列",
+        "matched_text": "死神"
+      }
+    ]
+  },
+  {
+    "chinese_name": "死亡笔记",
+    "selected_wikidata_id": "Q1834",
+    "japanese_name": "DEATH NOTE",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q1834",
+        "label": "死神笔记簿",
+        "description": "日本系列漫画",
+        "matched_text": "死亡笔记"
+      },
+      {
+        "id": "Q718624",
+        "label": "死亡笔记",
+        "description": "Japanese anime television series",
+        "matched_text": "死亡笔记"
+      },
+      {
+        "id": "Q1200673",
+        "label": "死亡笔记",
+        "description": "2006年电影",
+        "matched_text": "死亡笔记"
+      },
+      {
+        "id": "Q6453043",
+        "label": "死亡笔记角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "死亡笔记角色列表"
+      },
+      {
+        "id": "Q436525",
+        "label": "死亡笔记动画集数列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "死亡笔记动画集数列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "谭雅战记",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "剃须然后捡到女高中生",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "天降之物",
+    "selected_wikidata_id": "Q741883",
+    "japanese_name": "そらのおとしもの",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q741883",
+        "label": "天降之物",
+        "description": "日本系列漫画",
+        "matched_text": "天降之物"
+      },
+      {
+        "id": "Q11277260",
+        "label": "天降之物",
+        "description": "The Birds song",
+        "matched_text": "天降之物"
+      },
+      {
+        "id": "Q5694508",
+        "label": "天降之物 计时的悲伤女神",
+        "description": "2011 film by Tetsuya Yanagisawa",
+        "matched_text": "天降之物 計時的悲傷女神"
+      },
+      {
+        "id": "Q16168006",
+        "label": "天降之物Final 永远的我的鸟笼",
+        "description": "2014 film",
+        "matched_text": "天降之物Final 永遠的我的鳥籠"
+      }
+    ]
+  },
+  {
+    "chinese_name": "Vocaloid",
+    "selected_wikidata_id": "Q550596",
+    "japanese_name": "VOCALOID",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q550596",
+        "label": "Vocaloid",
+        "description": "日本语音合成软件",
+        "matched_text": "Vocaloid"
+      },
+      {
+        "id": "Q22909672",
+        "label": "Vocaloid",
+        "description": "2004年软件",
+        "matched_text": "Vocaloid"
+      },
+      {
+        "id": "Q85873795",
+        "label": "P主",
+        "description": "使用VOCALOID等歌声合成器创作的音乐人",
+        "matched_text": "VOCALOID职人"
+      },
+      {
+        "id": "Q110391587",
+        "label": "VOCALOID流派",
+        "description": "使用VOCALOID等语音合成技术创作歌曲的音乐流派",
+        "matched_text": "VOCALOID流派"
+      },
+      {
+        "id": "Q6603625",
+        "label": "Vocaloid制品列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "Vocaloid製品列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "蔚蓝档案",
+    "selected_wikidata_id": "Q105344455",
+    "japanese_name": "ブルーアーカイブ -Blue Archive-",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q105344455",
+        "label": "蔚蓝档案",
+        "description": "2021南韩（韩国）制角色扮演手游",
+        "matched_text": "蔚蓝档案"
+      },
+      {
+        "id": "Q125499961",
+        "label": "蔚蓝档案",
+        "description": "跨媒体制作",
+        "matched_text": "蔚蓝档案"
+      },
+      {
+        "id": "Q116291369",
+        "label": "蔚蓝档案",
+        "description": "日本电视动画系列",
+        "matched_text": "蔚蓝档案 The Animation"
+      }
+    ]
+  },
+  {
+    "chinese_name": "为美好世界献上祝福",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "文豪野犬",
+    "selected_wikidata_id": "Q17215635",
+    "japanese_name": "文豪ストレイドッグス",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q17215635",
+        "label": "文豪野犬",
+        "description": "日本漫画",
+        "matched_text": "文豪野犬"
+      },
+      {
+        "id": "Q64768625",
+        "label": "文豪野犬 DEAD APPLE",
+        "description": "2018年的电影",
+        "matched_text": "文豪野犬 DEAD APPLE"
+      }
+    ]
+  },
+  {
+    "chinese_name": "我的青春恋爱物语果然有问题",
+    "selected_wikidata_id": "Q124516294",
+    "japanese_name": "やはり俺の青春ラブコメはまちがっている。",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q124516294",
+        "label": "我的青春恋爱物语果然有问题。",
+        "description": "跨媒体制作",
+        "matched_text": "我的青春恋爱物语果然有问题。"
+      },
+      {
+        "id": "Q217982",
+        "label": "我的青春恋爱物语果然有问题。",
+        "description": "日本轻小说及动画作品",
+        "matched_text": "我的青春恋爱物语果然有问题。"
+      },
+      {
+        "id": "Q22099861",
+        "label": "我的青春恋爱物语果然有问题。",
+        "description": "日本电视动画系列",
+        "matched_text": "我的青春恋爱物语果然有问题。"
+      }
+    ]
+  },
+  {
+    "chinese_name": "我的幸福婚约",
+    "selected_wikidata_id": "Q109512255",
+    "japanese_name": "わたしの幸せな結婚",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q109512255",
+        "label": "我的幸福婚约",
+        "description": "日本轻小说系列",
+        "matched_text": "我的幸福婚约"
+      },
+      {
+        "id": "Q109521724",
+        "label": "我的幸福婚约",
+        "description": "日本漫画系列",
+        "matched_text": "我的幸福婚约"
+      },
+      {
+        "id": "Q130598176",
+        "label": "我的幸福婚约",
+        "description": "2023年电影",
+        "matched_text": "我的幸福婚约"
+      },
+      {
+        "id": "Q116732285",
+        "label": "我的幸福婚约",
+        "description": "日本电视动画系列",
+        "matched_text": "我的幸福婚约"
+      }
+    ]
+  },
+  {
+    "chinese_name": "我推的孩子",
+    "selected_wikidata_id": "Q97310775",
+    "japanese_name": "【推しの子】",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q97310775",
+        "label": "【我推的孩子】",
+        "description": "日本漫画",
+        "matched_text": "我推的孩子"
+      },
+      {
+        "id": "Q112305523",
+        "label": "【我推的孩子】",
+        "description": "日本电视动画",
+        "matched_text": "我推的孩子"
+      },
+      {
+        "id": "Q117605169",
+        "label": "【我推的孩子】剧集列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "我推的孩子劇集列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "我心里危险的东西",
+    "selected_wikidata_id": "Q85876636",
+    "japanese_name": "僕の心のヤバイやつ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q85876636",
+        "label": "我内心的糟糕念头",
+        "description": "日本系列漫画",
+        "matched_text": "我心里危险的东西"
+      }
+    ]
+  },
+  {
+    "chinese_name": "五等分的花嫁",
+    "selected_wikidata_id": "Q38277250",
+    "japanese_name": "五等分の花嫁",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q38277250",
+        "label": "五等分的新娘",
+        "description": "日本少年漫画",
+        "matched_text": "五等分的花嫁"
+      }
+    ]
+  },
+  {
+    "chinese_name": "无头骑士异闻录",
+    "selected_wikidata_id": "Q495094",
+    "japanese_name": "デュラララ!!",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q495094",
+        "label": "无头骑士异闻录 DuRaRaRa!!",
+        "description": "日本轻小说系列",
+        "matched_text": "无头骑士异闻录"
+      }
+    ]
+  },
+  {
+    "chinese_name": "无限滑板",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "物语系列×命运石之门联动",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "无职转生",
+    "selected_wikidata_id": "Q19840456",
+    "japanese_name": "無職転生 〜異世界行ったら本気だす〜",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q19840456",
+        "label": "无职转生～到了异世界就拿出真本事～",
+        "description": "日本轻小说作品",
+        "matched_text": "无职转生～在异世界认真地活下去～"
+      }
+    ]
+  },
+  {
+    "chinese_name": "夏目友人帐",
+    "selected_wikidata_id": "Q641767",
+    "japanese_name": "夏目友人帳",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q641767",
+        "label": "夏目友人帐",
+        "description": "日本系列漫画",
+        "matched_text": "夏目友人帐"
+      },
+      {
+        "id": "Q30944382",
+        "label": "夏目友人帐",
+        "description": null,
+        "matched_text": "夏目友人帐"
+      },
+      {
+        "id": "Q55080189",
+        "label": "剧场版 夏目友人帐 ～缘结空蝉～",
+        "description": "2018年动画电影",
+        "matched_text": "夏目友人帐 ～缘结空蝉～"
+      },
+      {
+        "id": "Q106178886",
+        "label": "夏目友人帐 特别上映版：唤石与可疑访客",
+        "description": "2021 film directed by Hideki Ito",
+        "matched_text": "夏目友人帐 特别上映版：唤石与可疑访客"
+      }
+    ]
+  },
+  {
+    "chinese_name": "夏日口袋",
+    "selected_wikidata_id": "Q28002085",
+    "japanese_name": null,
+    "review_status": "candidate_without_japanese_label",
+    "candidates": [
+      {
+        "id": "Q28002085",
+        "label": "Summer Pockets",
+        "description": "Key社制作的文字冒险美少女游戏",
+        "matched_text": "夏日口袋"
+      }
+    ]
+  },
+  {
+    "chinese_name": "献之王子殿下",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "想成为影之实力者",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "小林家的龙女仆",
+    "selected_wikidata_id": "Q17991408",
+    "japanese_name": "小林さんちのメイドラゴン",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q17991408",
+        "label": "小林家的龙女仆",
+        "description": "日本漫画",
+        "matched_text": "小林家的龙女仆"
+      }
+    ]
+  },
+  {
+    "chinese_name": "血界战线",
+    "selected_wikidata_id": "Q50620988",
+    "japanese_name": "血界戦線",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q50620988",
+        "label": "血界战线",
+        "description": "日本电视动画系列",
+        "matched_text": "血界战线"
+      }
+    ]
+  },
+  {
+    "chinese_name": "新世纪福音战士",
+    "selected_wikidata_id": "Q1331128",
+    "japanese_name": "使徒",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q1331128",
+        "label": "使徒",
+        "description": "type of monster in Japanese anime",
+        "matched_text": "新世纪福音战士使徒介绍"
+      },
+      {
+        "id": "Q2032816",
+        "label": "新世纪福音战士：钢铁恋人",
+        "description": "1997 video game",
+        "matched_text": "新世纪福音战士 钢铁的女友"
+      },
+      {
+        "id": "Q1188552",
+        "label": "新世纪福音战士剧集列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "新世纪福音战士剧集列表"
+      },
+      {
+        "id": "Q2986432",
+        "label": "新世纪福音战士：绫波育成计划",
+        "description": "2001年电子游戏",
+        "matched_text": "新世纪福音战士：绫波育成计划"
+      },
+      {
+        "id": "Q1150974",
+        "label": "新世纪福音战士2",
+        "description": "PlayStation 2 video game",
+        "matched_text": "新世纪福音战士2"
+      }
+    ]
+  },
+  {
+    "chinese_name": "亚托莉 -ATRI-",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "烟速宅男",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "炎炎消防队",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "堰与官村",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "妖精的尾巴",
+    "selected_wikidata_id": "Q18796",
+    "japanese_name": "フェアリーテイル",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q18796",
+        "label": "FAIRY TAIL",
+        "description": "日本系列漫画",
+        "matched_text": "妖精的尾巴"
+      },
+      {
+        "id": "Q55919001",
+        "label": "妖精的尾巴 百年任务",
+        "description": "日本系列漫画",
+        "matched_text": "妖精的尾巴 百年任务"
+      },
+      {
+        "id": "Q124817637",
+        "label": "妖精的尾巴 百年任务",
+        "description": "日本电视动画系列",
+        "matched_text": "妖精的尾巴 百年任务"
+      },
+      {
+        "id": "Q126723381",
+        "label": "妖精的尾巴2",
+        "description": "2024 video game",
+        "matched_text": "妖精的尾巴2"
+      },
+      {
+        "id": "Q608837",
+        "label": "妖精的尾巴角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "妖精的尾巴角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "药屋少女的呢喃",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "摇曳露营",
+    "selected_wikidata_id": "Q28691353",
+    "japanese_name": "ゆるキャン△",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q28691353",
+        "label": "摇曳露营△",
+        "description": "日本漫画",
+        "matched_text": "摇曳露营△"
+      },
+      {
+        "id": "Q64029196",
+        "label": "摇曳露营△",
+        "description": "日本动漫电视剧",
+        "matched_text": "摇曳露营△"
+      }
+    ]
+  },
+  {
+    "chinese_name": "伊藤润二",
+    "selected_wikidata_id": "Q744237",
+    "japanese_name": "伊藤潤二",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q744237",
+        "label": "伊藤润二",
+        "description": "日本恐怖作家",
+        "matched_text": "伊藤润二"
+      }
+    ]
+  },
+  {
+    "chinese_name": "银魂",
+    "selected_wikidata_id": "Q764135",
+    "japanese_name": "銀魂",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q764135",
+        "label": "银魂",
+        "description": "日本系列漫画",
+        "matched_text": "银魂"
+      },
+      {
+        "id": "Q709716",
+        "label": "银魂",
+        "description": "动画",
+        "matched_text": "银魂"
+      },
+      {
+        "id": "Q1067923",
+        "label": "银魂角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "银魂人物列表"
+      },
+      {
+        "id": "Q1146054",
+        "label": "银魂动画集数列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "银魂动画集数列表"
+      },
+      {
+        "id": "Q4912095",
+        "label": "银魂剧场版 新译红樱篇",
+        "description": "2010 Japanese anime film directed by Shinji Takamatsu",
+        "matched_text": "银魂剧场版 新译红樱篇"
+      }
+    ]
+  },
+  {
+    "chinese_name": "樱兰高校",
+    "selected_wikidata_id": "Q327773",
+    "japanese_name": "桜蘭高校ホスト部",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q327773",
+        "label": "樱兰高校男公关部",
+        "description": "日本系列漫画",
+        "matched_text": "樱兰高校男公关部"
+      }
+    ]
+  },
+  {
+    "chinese_name": "游戏人生",
+    "selected_wikidata_id": "Q47469861",
+    "japanese_name": "ノーゲーム・ノーライフ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q47469861",
+        "label": "游戏人生",
+        "description": "日本电视动画系列",
+        "matched_text": "游戏人生"
+      },
+      {
+        "id": "Q1746446",
+        "label": "游戏人生",
+        "description": "1992年的电影",
+        "matched_text": "游戏人生"
+      }
+    ]
+  },
+  {
+    "chinese_name": "原神",
+    "selected_wikidata_id": "Q65059474",
+    "japanese_name": "原神",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q65059474",
+        "label": "原神",
+        "description": "2020年电子游戏",
+        "matched_text": "原神"
+      },
+      {
+        "id": "Q156149",
+        "label": "原神星",
+        "description": "小行星",
+        "matched_text": "原神星"
+      },
+      {
+        "id": "Q2309668",
+        "label": "原神星族",
+        "description": "小行星族",
+        "matched_text": "原神星族"
+      },
+      {
+        "id": "Q109943856",
+        "label": "原神角色列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "原神角色列表"
+      },
+      {
+        "id": "Q113254927",
+        "label": "原神的音乐",
+        "description": "电子游戏《原神》的音乐",
+        "matched_text": "原神的音乐"
+      }
+    ]
+  },
+  {
+    "chinese_name": "缘之空",
+    "selected_wikidata_id": "Q1202075",
+    "japanese_name": "ヨスガノソラ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q1202075",
+        "label": "缘之空",
+        "description": "日本恋爱游戏、漫画、电视动画与广播剧",
+        "matched_text": "缘之空"
+      },
+      {
+        "id": "Q91420426",
+        "label": "缘之空",
+        "description": "日本漫画",
+        "matched_text": "缘之空"
+      },
+      {
+        "id": "Q91420428",
+        "label": "缘之空",
+        "description": "日本电视动画",
+        "matched_text": "缘之空"
+      }
+    ]
+  },
+  {
+    "chinese_name": "约会大作战",
+    "selected_wikidata_id": "Q182548",
+    "japanese_name": "デート・ア・ライブ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q182548",
+        "label": "约会大作战",
+        "description": "日本轻小说及动画作品",
+        "matched_text": "约会大作战"
+      }
+    ]
+  },
+  {
+    "chinese_name": "葬送的芙莉莲",
+    "selected_wikidata_id": "Q98642652",
+    "japanese_name": "葬送のフリーレン",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q98642652",
+        "label": "葬送的芙莉莲",
+        "description": "日本漫画",
+        "matched_text": "葬送的芙莉莲"
+      },
+      {
+        "id": "Q115792176",
+        "label": "葬送的芙莉莲",
+        "description": "日本电视动画",
+        "matched_text": "葬送的芙莉莲"
+      },
+      {
+        "id": "Q123631191",
+        "label": "葬送的芙莉莲漫画章节列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "葬送的芙莉莲漫画章节列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "战姬绝唱",
+    "selected_wikidata_id": "Q18821971",
+    "japanese_name": "戦姫絶唱シンフォギアのディスコグラフィ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q18821971",
+        "label": "战姬绝唱SYMPHOGEAR关联光碟",
+        "description": null,
+        "matched_text": "战姬绝唱SYMPHOGEAR关联光碟"
+      },
+      {
+        "id": "Q3271710",
+        "label": "战姬绝唱SYMPHOGEAR",
+        "description": "日本电视动画系列",
+        "matched_text": "战姬绝唱SYMPHOGEAR"
+      }
+    ]
+  },
+  {
+    "chinese_name": "侦探已死",
+    "selected_wikidata_id": "Q86737450",
+    "japanese_name": "探偵はもう、死んでいる。",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q86737450",
+        "label": "侦探已经，死了。",
+        "description": "日本轻小说系列",
+        "matched_text": "侦探已死"
+      }
+    ]
+  },
+  {
+    "chinese_name": "中二病也要谈恋爱",
+    "selected_wikidata_id": "Q4476046",
+    "japanese_name": null,
+    "review_status": "candidate_without_japanese_label",
+    "candidates": [
+      {
+        "id": "Q4476046",
+        "label": "中二病也要谈恋爱！剧集列表",
+        "description": "维基媒体列表条目",
+        "matched_text": "中二病也要谈恋爱！剧集列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "终结的炽天使",
+    "selected_wikidata_id": "Q64711220",
+    "japanese_name": "終わりのセラフ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q64711220",
+        "label": "终结的炽天使",
+        "description": "日本电视动画系列",
+        "matched_text": "终结的炽天使"
+      }
+    ]
+  },
+  {
+    "chinese_name": "终末的女武神",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "咒术回战",
+    "selected_wikidata_id": "Q55522899",
+    "japanese_name": "呪術廻戦",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q55522899",
+        "label": "咒术回战",
+        "description": "日本连载漫画",
+        "matched_text": "咒术回战"
+      },
+      {
+        "id": "Q98836216",
+        "label": "咒术回战",
+        "description": "日本电视动画",
+        "matched_text": "咒术回战"
+      },
+      {
+        "id": "Q105243579",
+        "label": "咒术回战角色列表",
+        "description": "日本漫画《咒术回战》及其衍生作品的登场角色",
+        "matched_text": "咒术回战角色列表"
+      }
+    ]
+  },
+  {
+    "chinese_name": "主播女孩重度依赖",
+    "selected_wikidata_id": "Q110722169",
+    "japanese_name": "NEEDY GIRL OVERDOSE",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q110722169",
+        "label": "主播女孩重度依赖",
+        "description": "2022年电子游戏",
+        "matched_text": "主播女孩重度依赖"
+      }
+    ]
+  },
+  {
+    "chinese_name": "转生成为蜘蛛又怎样",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "转生王女与天才千金的魔法革命",
+    "selected_wikidata_id": null,
+    "japanese_name": null,
+    "review_status": "unresolved",
+    "candidates": []
+  },
+  {
+    "chinese_name": "紫罗兰永恒花园",
+    "selected_wikidata_id": "Q73896191",
+    "japanese_name": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q73896191",
+        "label": "紫罗兰永恒花园外传：永远与自动手记人偶",
+        "description": "2019年日本动画电影",
+        "matched_text": "紫罗兰永恒花园外传：永远与自动手记人偶"
+      }
+    ]
+  },
+  {
+    "chinese_name": "紫云寺家的孩子们",
+    "selected_wikidata_id": "Q120336481",
+    "japanese_name": "紫雲寺家の子供たち",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q120336481",
+        "label": "紫云寺家的兄弟姊妹",
+        "description": "日本漫画系列",
+        "matched_text": "紫云寺家的孩子们"
+      },
+      {
+        "id": "Q124537398",
+        "label": "紫云寺家的兄弟姊妹",
+        "description": "日本电视动画系列",
+        "matched_text": "紫云寺家的孩子们"
+      }
+    ]
+  },
+  {
+    "chinese_name": "总之就是非常可爱",
+    "selected_wikidata_id": "Q56352475",
+    "japanese_name": "トニカクカワイイ",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q56352475",
+        "label": "总之就是非常可爱",
+        "description": "日本漫画",
+        "matched_text": "总之就是非常可爱"
+      }
+    ]
+  },
+  {
+    "chinese_name": "租借女友",
+    "selected_wikidata_id": "Q55695988",
+    "japanese_name": "彼女、お借りします",
+    "review_status": "candidate",
+    "candidates": [
+      {
+        "id": "Q55695988",
+        "label": "租借女友",
+        "description": "日本漫画",
+        "matched_text": "租借女友"
+      },
+      {
+        "id": "Q98923955",
+        "label": "租借女友",
+        "description": "日本电视动画系列",
+        "matched_text": "租借女友"
+      },
+      {
+        "id": "Q138033720",
+        "label": "租借女友",
+        "description": "日剧",
+        "matched_text": "租借女友"
+      },
+      {
+        "id": "Q127385421",
+        "label": "租借女友 ～水平线与泳装女友～",
+        "description": "2024年电子游戏",
+        "matched_text": "租借女友 ～水平线与泳装女友～"
+      }
+    ]
+  }
+]
